@@ -1,5 +1,3 @@
 import streamlit as st
-google-genai
-pandas
-st-gsheets-connection
-
+from google import genai
+import pandas as pd
